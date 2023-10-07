@@ -1,0 +1,33 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#nav{
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#section-two{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#section-form{
+    background-color: gray;
+    border: solid black 2px;
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    width: 400px;
+    height: fit-content;
+    flex-wrap: wrap;
+    align-items: center;
+}
